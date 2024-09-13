@@ -6,7 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/xoxosahil/)
 ### Glad to see you here! &nbsp;
 
-I love solving real world problems with technology and automating manual things with software.
+<!-- I love solving real world problems with technology and automating manual things with software. -->
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently developing stuff with React, JavaScript, Node.js, Next.js, Tailwind, Mongodb.
