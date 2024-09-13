@@ -1,5 +1,5 @@
 
-## Hey there 👋, I'm Ravi Lamkoti — a passionate Software Engineer 👨‍💻
+## Hey there 👋, I'm Sahil Suthar — a passionate learner 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-lamkoti/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ravencolevol.github.io)
@@ -9,9 +9,9 @@
 I love solving real world problems with technology and automating manual things with software.
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently developing stuff with JavaScript/TypeScript, Node.js, React, Next.js, Nest.js, Mongodb, Redis.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RavenColEvol).
-- 📫 &nbsp; How to reach me: ravilamkoti@gmail.com
+- 🛠 &nbsp; I'm currently developing stuff with React, JavaScript/TypeScript, Node.js, Next.js, Mongodb.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SahilS-26).
+- 📫 &nbsp; How to reach me: sutharsahil703@gmail.com
 
 ### My Absolute Favorites:
 
