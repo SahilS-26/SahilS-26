@@ -9,7 +9,7 @@
 I love solving real world problems with technology and automating manual things with software.
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently developing stuff with React, JavaScript/TypeScript, Node.js, Next.js, Mongodb.
+- 🛠 &nbsp; I'm currently developing stuff with React, JavaScript, Node.js, Next.js, Tailwind, Mongodb.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SahilS-26).
 - 📫 &nbsp; How to reach me: sutharsahil703@gmail.com
 
